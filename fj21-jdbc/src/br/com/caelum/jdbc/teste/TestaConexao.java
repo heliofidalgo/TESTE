@@ -16,3 +16,8 @@ public class TestaConexao {
 	}
 
 }
+/*
+*link da apostila para estudo de desenvolvimento web com foco em JAVAWEB
+*  https://www.caelum.com.br/apostila-java-web/
+*  OBS: configurar o MySQL para uso neste estudo.
+*/
